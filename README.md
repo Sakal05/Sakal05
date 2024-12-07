@@ -2,9 +2,9 @@ I'm a developer specializing in blockchain, fintech, web, and mobile application
 
 ### Expertise  
 - **Blockchain**: Smart contracts (Solidity, Rust), EVM Bridge, Web3.js, wagmi  
-- **Fintech**: Building secure, scalable solutions for clients  
+- **Fintech**: Building secure, scalable solutions
 - **Web Development**: Full-stack with Next.js, React, Rust, Go, Node.js  
-- **Telegram**: Bots, mini-apps, and blockchain integrations  
+- **Telegram**: Bots, mini-apps, and blockchain integrations (TON blockchain protocol)
 - **Mobile Apps**: Cross-platform with Flutter  
 
 ### About Me  
